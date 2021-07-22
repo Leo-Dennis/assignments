@@ -1,4 +1,4 @@
-# Armstorng Number
+# Armstrong Number
 num1 = input("Enter a number to check: ")
 total = 0
 allowed = set(["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"])
